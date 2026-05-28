@@ -1,3 +1,3 @@
 def call(String name){
-  echo "${name}"
+  echo "Hello ${name}"
 }
